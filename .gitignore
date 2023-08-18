@@ -5,7 +5,7 @@
 /index.html
 /preactalpha.html
 /crossprotocol.html
-/data/pokemon-showdown/*
+/data/pokemon-showdown
 node_modules/
 eslint-cache/
 .DS_Store
