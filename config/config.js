@@ -19,11 +19,11 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'showdown',
-	host: 'sim3.psim.us',
-	port: 443,
-	httpport: 8000,
+	host: 'showdown.meatyjesus.ca',
+	port: 8000,
+	httpport: 80,
 	altport: 80,
-	registered: false
+	registered: true
 };
 
 Config.roomsFirstOpenScript = function () {
@@ -33,13 +33,5 @@ Config.customcolors = {
 	'zarel': 'aeo'
 };
 /*** Begin automatically generated configuration ***/
-Config.version = "0.11.2 (95ea88dd)";
 
-Config.routes = {
-	root: 'pokemonshowdown.com',
-	client: 'play.pokemonshowdown.com',
-	dex: 'dex.pokemonshowdown.com',
-	replays: 'replay.pokemonshowdown.com',
-	users: 'pokemonshowdown.com/users',
-};
 /*** End automatically generated configuration ***/
