@@ -23,7 +23,8 @@
     "@babel/preset-typescript": "^7.21.0",
     "babel-plugin-remove-import-export": "^1.1.1",
     "google-auth-library": "^3.1.2",
-    "image-size": "^0.7.5"
+    "image-size": "^0.7.5",
+    "source-map": "^0.7.4"
   },
   "devDependencies": {
     "@types/jquery": "^3.5.3",
@@ -31,7 +32,6 @@
     "eslint": "^5.16.0",
     "mocha": "^6.0.2",
     "preact": "^8.3.1",
-    "source-map": "^0.7.3",
     "tslint": "^5.20.1",
     "typescript": "^4.9.5"
   },
